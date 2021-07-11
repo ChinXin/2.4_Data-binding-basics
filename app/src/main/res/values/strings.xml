@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataBindingDemo</string>
+    <string name="update">Update</string>
+    <string name="name">Name :</string>
+    <string name="nricNo">NRIC No. :</string>
+    <string name="email">email :</string>
+    <string name="address">Address :</string>
+</resources>
